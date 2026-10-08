@@ -1,5 +1,7 @@
 # Claudia, desktop dancer
 
+![Claudia dancing across the claudia.gallery page](demo.gif)
+
 **Claudia is by anabology. Her films, images and story live at [claudia.gallery](https://claudia.gallery/).**
 These sprites are cut from her music video [BLISS](https://claudia.gallery/bliss/).
 
